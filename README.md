@@ -4,11 +4,11 @@ The goal of this game is to make the Turtle cross safely the road.
 All coloured blocks are cars, you touch one, you lose.
 
 ## Instructions
-- Create a Fork of the repository (you can access all projects).
+- Create a Fork of the repository.
 - Open your favourite IDE (I use [PyCharm](https://www.jetbrains.com/pycharm/)).
-- Check the ***[requirements.txt](https://github.com/JuanCarcedo/jca-python-projects/blob/main/requirements.txt)*** file.  
+- Check the ***[requirements.txt](https://github.com/JuanCarcedo/Turtle-Crossing/blob/main/requirements.txt)*** file.  
   - For this project you will need:
-    + turtle.
+    + [turtle](https://docs.python.org/3/library/turtle.html)
 
 Note:  
 - Each level increases the speed of the cars.
@@ -33,4 +33,4 @@ Game Over:
 
 ## Author and Licence
 **[Juan Carcedo](https://github.com/JuanCarcedo)**  
-2022 Copyright © - Licence [MIT](https://github.com/JuanCarcedo/jca-python-projects/blob/main/LICENSE.txt)
+2022 Copyright © - Licence [MIT](https://github.com/JuanCarcedo/Turtle-Crossing/blob/main/LICENSE)
